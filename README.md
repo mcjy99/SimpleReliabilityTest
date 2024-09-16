@@ -11,10 +11,6 @@
 ## Software
 The [Arduino Stepper library](https://www.arduino.cc/reference/en/libraries/stepper/) is used. The program is based off its inbuilt examples **stepper_oneRevolution** and **stepper_oneStepAtATime**. 
 
-1. One Step at a Time: motor moves one step at a time, used to test motor wiring
-2. Constant revolution: motor constantly revolves at selected speed in selected direction, used to test motor wiring
-3. One Revolution: motor moves one revolution clockwise, then one revolution counter clockwise, and repeats
-
 ## Note: 
 1. For the NEMA 17 Stepper Motor tested, the datasheet states that for one coil black is the coil end and yellow is the centre tap wire, but it was found that the opposite is true.
 2. Select the number of revolutions per step based on the motor used
