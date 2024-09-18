@@ -9,7 +9,7 @@
 #define STEP 200 //number of steps in one revolution
 #define MAXSTEPCOUNT 400 //used to count number of revolutions in each direction in one cycle, number of revolution * STEP 
 const int stepsPerRevolution = 200;  // change this to fit the number of steps per revolution
-int stepCount = 0;         // number of steps the motor has taken
+int stepCount = 0;         // counter for the number of steps the motor has taken
 bool CW = false;           //change this to true if want to start with clockwise 
 
 // initialize the stepper library on pins 4 through 7 (Arduino Motor Shield):
