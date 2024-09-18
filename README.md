@@ -1,5 +1,5 @@
 # Stepper Motor Application for Simple Reliability Test of Flexible Electronics
-
+WIP
 ## Hardware Used 
 1. Arduino Uno
 2. [Arduino 2A Motor Shield](https://my.cytron.io/p-0.8amp-5v-26v-dc-motor-driver-shield-for-arduino-2-channels?r=1) : [User Manual](https://docs.google.com/document/d/1EiQAE_9VpDDm4rjZrySAoGjQldJnTk6rJIsUkqCT37w/view)
