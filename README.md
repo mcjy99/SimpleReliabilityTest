@@ -15,4 +15,4 @@ The [Arduino Stepper library](https://www.arduino.cc/reference/en/libraries/step
 1. For the NEMA 17 Stepper Motor tested, the datasheet states that for one coil black is the coil end and yellow is the centre tap wire, but it was found that the opposite is true.
 2. Select the number of revolutions per step based on the motor used
 3. These examples use Signed Magnitude mode on the shield
-
+4. Other examples can be found [here](https://github.com/mcjy99/StepperMotor_ArduinoMotorShield_NEMA17/) 
